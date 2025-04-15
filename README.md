@@ -1,23 +1,23 @@
-# Ideenfindung
+# <CENTER><span style="color: transparent; background-image: linear-gradient(to right, lightblue, purple); background-clip: text">Ideenfindung</span></CENTER>
 
-## Grundidee
+## <CENTER>Grundidee</CENTER>
 
-### Grundfunktion
-#### Software
+### <CENTER>Grundfunktion</CENTER>
+#### <CENTER>Software</CENTER>
 Eine Softwarelösung, um einen Kamerafeed mit Motiontracking, Positionen in Bewegungsanweisungen eines Scheinwerfers zu übergeben, welcher dann eine Person verfolgen kann.
 
-#### Hardware
+#### <CENTER>Hardware</CENTER>
 Einen programmierbaren Scheinwerfer, mit angehängter Kamera.
 
 
-### Zusatzfunktionen
+### <CENTER>Zusatzfunktionen</CENTER>
 -> Umstellen von automatik auf manuellen oder statischen Modus.\
 -> Auswählen von spezifischen Personen, welche verfolgt werden können.\
 -> Passivmodus, welcher Effekte abspielt.
 
 
 
-## Fragestellung
+## <CENTER>Fragestellung</CENTER>
 - Wie muss die Software strukturiert sein?
 - Welche Anforderungen muss die Hardware zur Ausführung der Software erfüllen?
 - Womit wird oder muss die Software verlinkt sein?
@@ -27,3 +27,8 @@ Einen programmierbaren Scheinwerfer, mit angehängter Kamera.
 - Welche Kriterien der Software müssen berücksichtigt werden: Größe, Performance, Sicherheit vor Abstürzen?
 - Wie soll ein Absturz der Software behandelt werden: Scheinwerfer manuell bewegen, Ersatzscheinwerfer benutzen, ohne Scheinwerfer fortfahren?
 - Welche Schnittstellen müssen mit der Software verbunden sein?
+
+## <CENTER>Technische Umsetzung</CENTER>
+
+[Idee 1](https://medium.com/@itberrios6/introduction-to-motion-detection-part-1-e031b0bb9bb2)
+
