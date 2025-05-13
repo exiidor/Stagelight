@@ -14,7 +14,7 @@ video_cap = cv2.VideoCapture("input.mp4")
 # initialize the video writer object
 writer = create_video_writer(video_cap, "output.mp4")
 
-# load the pre-trained YOLOv8n model
+# load the pre-trained YOLO model
 model = YOLO("yolo11x.pt")
 tracker = DeepSort(max_age=50)
 
